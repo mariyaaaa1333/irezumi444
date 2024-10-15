@@ -1,0 +1,11 @@
+Model Information:
+* title:	Samurai Mask Sketch
+* source:	https://sketchfab.com/3d-models/samurai-mask-sketch-976564c01fb341e3b75fc4dcc4e96ba8
+* author:	Yaroslav.Kononenko (https://sketchfab.com/Yaroslav.Kononenko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Samurai Mask Sketch" (https://sketchfab.com/3d-models/samurai-mask-sketch-976564c01fb341e3b75fc4dcc4e96ba8) by Yaroslav.Kononenko (https://sketchfab.com/Yaroslav.Kononenko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
